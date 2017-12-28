@@ -1,0 +1,23 @@
+{
+  "name": "citms-ui",
+  "version": "1.0.0",
+  "description": "ctims package ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renming458/citms-ui.git"
+  },
+  "keywords": [
+    "citms",
+    "ui"
+  ],
+  "author": "renming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renming458/citms-ui/issues"
+  },
+  "homepage": "https://github.com/renming458/citms-ui#readme"
+}
