@@ -1,4 +1,4 @@
-import objectAssign from 'element-ui/src/utils/merge';
+import objectAssign from 'citms-ui/src/utils/merge';
 import { markNodeData, NODE_KEY } from './util';
 
 export const getChildState = node => {

@@ -36,8 +36,8 @@
   </div>
 </template>
 <script>
-  import Focus from 'element-ui/src/mixins/focus';
-  import Migrating from 'element-ui/src/mixins/migrating';
+  import Focus from 'citms-ui/src/mixins/focus';
+  import Migrating from 'citms-ui/src/mixins/migrating';
 
   export default {
     name: 'ElSwitch',

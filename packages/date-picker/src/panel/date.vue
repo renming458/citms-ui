@@ -152,9 +152,9 @@
     prevMonth,
     nextMonth
   } from '../util';
-  import Locale from 'element-ui/src/mixins/locale';
-  import ElInput from 'element-ui/packages/input';
-  import ElButton from 'element-ui/packages/button';
+  import Locale from 'citms-ui/src/mixins/locale';
+  import ElInput from 'citms-ui/packages/input';
+  import ElButton from 'citms-ui/packages/button';
   import TimePicker from './time';
   import YearTable from '../basic/year-table';
   import MonthTable from '../basic/month-table';

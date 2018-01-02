@@ -19,10 +19,10 @@
   </span>
 </template>
 <script>
-import Popper from 'element-ui/src/utils/vue-popper';
-import { on, off } from 'element-ui/src/utils/dom';
-import { addClass, removeClass } from 'element-ui/src/utils/dom';
-import { generateId } from 'element-ui/src/utils/util';
+import Popper from 'citms-ui/src/utils/vue-popper';
+import { on, off } from 'citms-ui/src/utils/dom';
+import { addClass, removeClass } from 'citms-ui/src/utils/dom';
+import { generateId } from 'citms-ui/src/utils/util';
 
 export default {
   name: 'ElPopover',

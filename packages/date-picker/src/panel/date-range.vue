@@ -193,11 +193,11 @@
     prevMonth,
     nextMonth
   } from '../util';
-  import Locale from 'element-ui/src/mixins/locale';
+  import Locale from 'citms-ui/src/mixins/locale';
   import TimePicker from './time';
   import DateTable from '../basic/date-table';
-  import ElInput from 'element-ui/packages/input';
-  import ElButton from 'element-ui/packages/button';
+  import ElInput from 'citms-ui/packages/input';
+  import ElButton from 'citms-ui/packages/button';
 
   const advanceDate = (date, amount) => {
     return new Date(new Date(date).getTime() + amount);

@@ -77,13 +77,13 @@
 
 <script>
 import Vue from 'vue';
-import Clickoutside from 'element-ui/src/utils/clickoutside';
+import Clickoutside from 'citms-ui/src/utils/clickoutside';
 import { formatDate, parseDate, isDateObject, getWeekNumber } from './util';
-import Popper from 'element-ui/src/utils/vue-popper';
-import Emitter from 'element-ui/src/mixins/emitter';
-import Focus from 'element-ui/src/mixins/focus';
-import ElInput from 'element-ui/packages/input';
-import merge from 'element-ui/src/utils/merge';
+import Popper from 'citms-ui/src/utils/vue-popper';
+import Emitter from 'citms-ui/src/mixins/emitter';
+import Focus from 'citms-ui/src/mixins/focus';
+import ElInput from 'citms-ui/packages/input';
+import merge from 'citms-ui/src/utils/merge';
 
 const NewPopper = {
   props: {

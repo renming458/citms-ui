@@ -16,8 +16,8 @@
 </template>
 
 <script type="text/babel">
-  import Emitter from 'element-ui/src/mixins/emitter';
-  import { getValueByPath } from 'element-ui/src/utils/util';
+  import Emitter from 'citms-ui/src/mixins/emitter';
+  import { getValueByPath } from 'citms-ui/src/utils/util';
 
   export default {
     mixins: [Emitter],

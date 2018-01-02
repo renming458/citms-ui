@@ -1,6 +1,6 @@
 import Vue from 'vue';
-import merge from 'element-ui/src/utils/merge';
-import PopupManager from 'element-ui/src/utils/popup/popup-manager';
+import merge from 'citms-ui/src/utils/merge';
+import PopupManager from 'citms-ui/src/utils/popup/popup-manager';
 import getScrollBarWidth from '../scrollbar-width';
 import { getStyle } from '../dom';
 

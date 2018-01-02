@@ -14,10 +14,10 @@
   </el-menu-collapse-transition>
 </template>
 <script>
-  import emitter from 'element-ui/src/mixins/emitter';
-  import Migrating from 'element-ui/src/mixins/migrating';
-  import Menubar from 'element-ui/src/utils/menu/aria-menubar';
-  import { addClass, removeClass, hasClass } from 'element-ui/src/utils/dom';
+  import emitter from 'citms-ui/src/mixins/emitter';
+  import Migrating from 'citms-ui/src/mixins/migrating';
+  import Menubar from 'citms-ui/src/utils/menu/aria-menubar';
+  import { addClass, removeClass, hasClass } from 'citms-ui/src/utils/dom';
 
   export default {
     name: 'ElMenu',

@@ -1,7 +1,7 @@
 import { getCell, getColumnByCell, getRowIdentity } from './util';
-import { hasClass, addClass, removeClass } from 'element-ui/src/utils/dom';
-import ElCheckbox from 'element-ui/packages/checkbox';
-import ElTooltip from 'element-ui/packages/tooltip';
+import { hasClass, addClass, removeClass } from 'citms-ui/src/utils/dom';
+import ElCheckbox from 'citms-ui/packages/checkbox';
+import ElTooltip from 'citms-ui/packages/tooltip';
 import debounce from 'throttle-debounce/debounce';
 
 export default {

@@ -5,9 +5,9 @@
     "utils": {
       "plugins": [
         ["module-resolver", {
-          "root": ["element-ui"],
+          "root": ["citms-ui"],
           "alias": {
-            "element-ui/src": "element-ui/lib"
+            "citms-ui/src": "citms-ui/lib"
           }
         }]
       ]

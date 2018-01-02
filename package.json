@@ -1,6 +1,6 @@
 {
   "name": "citms-ui",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Citms A Component Library for Vue.js.",
   "main": "lib/citms-ui.common.js",
   "files": [
